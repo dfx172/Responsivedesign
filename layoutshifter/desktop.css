@@ -1,0 +1,8 @@
+.container{width: 800px;
+    margin-left: auto;
+    margin-right: auto;}
+    .c1 {height: 85%; width: 28%; order: 3;}
+    .c2 {height: 85%; width: 38%; margin: 0 auto; order: 2;}
+    .c3,.c4{height: 50%; width: 100%;}
+    .c5 {height: 85%; width: 28%; order: 1;}
+    .c6 {height: 15%; width: 100%; order: 4;}
